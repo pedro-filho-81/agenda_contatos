@@ -1,0 +1,1 @@
+alert("Lincado com JavaScript!");
